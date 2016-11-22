@@ -13,6 +13,10 @@ namespace YoLesPoteConsole
             // Ligne 2 
             Console.WriteLine("Gérer conflits");
             int b = 23;
+
+
+
+            //789
         }
     }
 }
