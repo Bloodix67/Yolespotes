@@ -13,6 +13,7 @@ namespace YoLesPoteConsole
             // Wololoo
             string nom = "Christophe";
             int a = 0;
+            //et c'est gagnéé !!
         }
     }
 }
