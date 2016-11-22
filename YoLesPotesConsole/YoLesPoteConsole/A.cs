@@ -12,6 +12,7 @@ namespace YoLesPoteConsole
             // Encore du travail !
             // Wololoo
             string nom = "Christophe";
+            int a = 0;
         }
     }
 }
