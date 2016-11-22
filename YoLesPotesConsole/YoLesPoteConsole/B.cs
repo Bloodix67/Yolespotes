@@ -10,7 +10,7 @@ namespace YoLesPoteConsole
     {
         public B() {
             // Ceci est la Ligne 1
-            // Ceci est la Ligne 2
+            // Ceci est la Ligne 2grsy dfiorzhg çhzoihàirz gàz
             int valeur = 3;
         }
     }
