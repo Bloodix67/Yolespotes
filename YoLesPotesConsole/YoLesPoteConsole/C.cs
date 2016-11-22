@@ -9,8 +9,10 @@ namespace YoLesPoteConsole
     class C
     {
         public C() {
-            // Jour 1 : Touda s'est endormie au travail
-            // Jour 2 : Touda fait clairement semblant de travailler mais elle lit closer sous son bureau
+            // Ligne 1
+            // Ligne 2
+            Console.WriteLine("Gérer conflits");
+            int b = 23;
         }
     }
 }
