@@ -11,6 +11,7 @@ namespace YoLesPoteConsole
         public B() {
             // Ligne 1
             // Ligne 2
+            int valeur = 3;
         }
     }
 }
