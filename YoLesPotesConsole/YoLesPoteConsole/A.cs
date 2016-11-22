@@ -9,8 +9,8 @@ namespace YoLesPoteConsole
     class A
     {
         public A() {
-            // Ligne 1
-            // Ligne 2
+            // Encore du travail !
+            // Wololoo
             string nom = "Christophe";
         }
     }
