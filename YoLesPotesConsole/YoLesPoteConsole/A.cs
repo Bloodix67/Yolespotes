@@ -11,6 +11,7 @@ namespace YoLesPoteConsole
         public A() {
             // Ligne 1
             // Ligne 2
+            string nom = "Christophe";
         }
     }
 }
