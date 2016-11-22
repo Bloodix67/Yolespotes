@@ -11,6 +11,8 @@ namespace YoLesPoteConsole
         public A() {
             // Encore du travail !
             // Wololoo
+            string nom = "Christophe";
+            int a = 0;
         }
     }
 }

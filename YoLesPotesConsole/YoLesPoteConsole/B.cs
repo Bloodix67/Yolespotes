@@ -9,8 +9,8 @@ namespace YoLesPoteConsole
     class B
     {
         public B() {
-            // Ligne 1
-            // Ligne 2
+            // Ceci est la Ligne 1
+            // Ceci est la Ligne 2
             int valeur = 3;
         }
     }
