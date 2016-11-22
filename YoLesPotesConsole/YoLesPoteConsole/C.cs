@@ -9,8 +9,8 @@ namespace YoLesPoteConsole
     class C
     {
         public C() {
-            // Ligne 1
-            // Ligne 2
+            // Ligne 1 Maxime baille troooop 
+            // Ligne 2 
             Console.WriteLine("Gérer conflits");
             int b = 23;
         }
