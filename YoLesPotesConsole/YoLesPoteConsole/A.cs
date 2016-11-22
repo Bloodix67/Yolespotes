@@ -8,5 +8,9 @@ namespace YoLesPoteConsole
 {
     class A
     {
+        public A() {
+            // Ligne 1
+            // Ligne 2
+        }
     }
 }
