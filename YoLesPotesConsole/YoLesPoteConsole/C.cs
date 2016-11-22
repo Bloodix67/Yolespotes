@@ -10,7 +10,7 @@ namespace YoLesPoteConsole
     {
         public C() {
             // Ligne 1 Maxime baille troooop 
-            // Ligne 2 
+            // Touda, laisse moi des conflits!
             Console.WriteLine("Gérer conflits");
             int b = 23;
 
