@@ -11,7 +11,7 @@ namespace YoLesPoteConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Salut à tous");
-            Console.Beep(523, 1000);
+            Console.Beep(523, 3000);
             Console.Beep(580, 2000);
             Console.Beep(650, 3000);
             Console.Beep(523, 1000);
