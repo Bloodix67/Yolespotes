@@ -48,6 +48,7 @@
     <Compile Include="C.cs" />
     <Compile Include="E.cs" />
     <Compile Include="D.cs" />
+    <Compile Include="K.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
